@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+If you've been visited by my crawler and referred here, and want to contact me, you can do so at me@rooty.dev (dev@otisroot.com if that doesn't work)
 <!--
 **otisdog8/otisdog8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
